@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook Post</string>
+    <string name="action_settings">Settings</string>
+    <string name="dev_info">Developer Info</string>
+    <string name="facebook_app_id">399056370226026</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
